@@ -13,13 +13,24 @@ The dataset contains 545 rows and 13 columns with various features related to ho
 **Categorical Features (Encoded)** : Mainroad access, guestroom, basement, air conditioning, hot water heating, preferred area, furnishing status
 
 # 1. Data Exploration & Preprocessing
-Checked for missing values and data types
+- Checked for missing values and data types
+![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/2.png?raw=true)
+![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/3.png?raw=true)
 
-
-Analyzed skewness and outliers in numerical features using histograms, boxplots, and statistical tests
+- Analyzed skewness and outliers in numerical features using histograms, boxplots, and statistical tests.
+  ![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/5.png?raw=true)
+  ![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/6.png?raw=true)
+  ![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/7.png?raw=true)
+ 
 
 Applied Interquartile Range (IQR) method to remove outliers in price and area. 
+ ![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/8.png?raw=true)
+ ![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/9.png?raw=true)
 
+
+
+
+ 
 # 2. Feature Engineering
 - Converted categorical variables into numerical format using one-hot encoding
 
