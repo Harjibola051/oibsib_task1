@@ -4,7 +4,8 @@
 This project aims to predict house prices using Linear Regression based on various features like area, number of bedrooms, bathrooms, parking space, and more. The dataset was cleaned, analyzed, and used to train a predictive model to estimate house prices accurately.
 
 # **Dataset**: 
-![Snap_Count](https:\\C:\Users\Hammed\Desktop\OASIS PROJECTS\LV 2 DATA\housing analysis picture\18.png")
+![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/18.png?raw=true)
+
 The dataset contains 545 rows and 13 columns with various features related to houses, including:
 
 **Numerical Features**: Price, area, bedrooms, bathrooms, stories, parking
@@ -13,6 +14,7 @@ The dataset contains 545 rows and 13 columns with various features related to ho
 
 # 1. Data Exploration & Preprocessing
 Checked for missing values and data types
+
 
 Analyzed skewness and outliers in numerical features using histograms, boxplots, and statistical tests
 
