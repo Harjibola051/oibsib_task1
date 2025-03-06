@@ -33,11 +33,14 @@ Applied Interquartile Range (IQR) method to remove outliers in price and area.
  
 # 2. Feature Engineering
 - Converted categorical variables into numerical format using one-hot encoding
-
-- Checked for multicollinearity using Variance Inflation Factor (VIF) and a correlation heatmap
-
+![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/4.png?raw=true)
+- Checked for multicollinearity using Variance Inflation Factor (VIF)
+  ![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/11.png?raw=true)
+- check for  correlation heatmap
+![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/10.png?raw=true)
 - Used Lasso Regression and Random Forest Feature Importance to select the most significant features
-
+![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/12.png?raw=true)
+![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/17.png?raw=true)
 # 3. Model Training & Evaluation
 - Split data into training (80%) and testing (20%) sets
 - Standardized features using StandardScaler
