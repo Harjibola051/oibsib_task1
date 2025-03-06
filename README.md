@@ -44,16 +44,19 @@ Applied Interquartile Range (IQR) method to remove outliers in price and area.
 
 # Trained a Linear Regression model
 # Results:
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
-- Root Mean Squared Error (RMSE)
-- R-squared (R²) Score
+- Mean Absolute Error (MAE): 774102.15
+- Mean Squared Error (MSE): 1042591273219.80
+- Root Mean Squared Error (RMSE): 1021073.59
+- R-squared (R²) Score:  0.67
 
 - 
 # 4. Model Interpretation & Visualization
 - Plotted actual vs predicted house prices
+  ![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/15.png?raw=true)
 - Analyzed residual distribution to check assumptions of linear regression
-- Used Q-Q plots and scatter plots to assess error distribution
+  ![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/14.png?raw=true)
+- Probability plot
+  ![image alt](https://github.com/Harjibola051/oibsib_task1/blob/main/19.png?raw=true)
 
 
 # Results & Insights
